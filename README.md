@@ -1,6 +1,6 @@
 # Blazor DataGrid Integrations
 
-A comprehensive guide demonstrating how to integrate and use the **Blazor DataGrid** component with multiple backend services. This repository contains production-ready sample applications showing complete CRUD operations, real-time data synchronization, and advanced data management patterns.
+A comprehensive guide demonstrating how to integrate and use the **[Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid)** component with multiple backend services. This repository contains production-ready sample applications showing complete CRUD operations, real-time data synchronization, and advanced data management patterns.
 
 ## Overview
 
@@ -58,9 +58,10 @@ dotnet run
 ```
 ## References
 
+- [Blazor Documentation](https://blazor.syncfusion.com/documentation/introduction)
 - [Blazor DataGrid Documentation](https://blazor.syncfusion.com/documentation/datagrid/)
 - [Online DataGrid Integration Demo](https://blazor.syncfusion.com/demos/query-builder/grid?theme=fluent2)
-- [Blazor Documentation](https://blazor.syncfusion.com/documentation/introduction)
+
 
 
 
